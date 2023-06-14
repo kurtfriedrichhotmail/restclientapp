@@ -28,7 +28,7 @@ document.addEventListener("DOMContentLoaded", function () {
     
     function StartWebListener()   
     {
-        $.get("hhttps://kurtlistenandwrite.azurewebsites.net/", function(data, status){  });
+        $.get("https://kurtlistenthenwrite.azurewebsites.net", function(data, status){  });
     }
     
 });
